@@ -59,3 +59,4 @@ This document provides a comprehensive map of the columns, strict data types, co
 | `return_5yr_pct`| REAL | None | 5-Year annualized percentage return trailing metric. |
 | `aum_crore` | REAL | None | Total Assets Under Management valued in Crores (INR). |
 | `expense_ratio` | REAL | None | Operational management fee charged to investors, clamped between 0.1% and 2.5%. |
+
