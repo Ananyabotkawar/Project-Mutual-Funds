@@ -1,0 +1,5 @@
+# Ignore raw data files
+data/processed/
+
+# Ignore local Jupyter checkpoints
+.ipynb_checkpoints/
