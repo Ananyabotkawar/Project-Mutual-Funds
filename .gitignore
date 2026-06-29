@@ -3,3 +3,5 @@ data/processed/
 
 # Ignore local Jupyter checkpoints
 .ipynb_checkpoints/
+
+*.csv
